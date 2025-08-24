@@ -1,12 +1,3 @@
-/*
---------------------------------------------------------------------
-© 2017 sqlservertutorial.net All Rights Reserved
---------------------------------------------------------------------
-Name   : BikeStores
-Link   : http://www.sqlservertutorial.net/load-sample-database/
-Version: 1.0
---------------------------------------------------------------------
-*/
 
 use BikeStores;
 
@@ -9111,4 +9102,5 @@ INSERT INTO sales.order_items(order_id, item_id, product_id, quantity, list_pric
 INSERT INTO sales.order_items(order_id, item_id, product_id, quantity, list_price,discount) VALUES(1614,3,213,2,269.99,0.2);
 INSERT INTO sales.order_items(order_id, item_id, product_id, quantity, list_price,discount) VALUES(1615,1,197,2,2299.99,0.2);
 INSERT INTO sales.order_items(order_id, item_id, product_id, quantity, list_price,discount) VALUES(1615,2,214,1,899.99,0.07);
+
 INSERT INTO sales.order_items(order_id, item_id, product_id, quantity, list_price,discount) VALUES(1615,3,182,1,2499.99,0.2);
